@@ -1,2 +1,8 @@
 # ai-cookbook
 A place to gather and collaborate on best practices and skills and instructions of software development with Agentic tools
+
+## Skills
+
+| Name | Description |
+| - | - |
+| knowledgebase | Manage a knowledge base for the project it is installed in |
