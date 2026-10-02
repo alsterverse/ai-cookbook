@@ -22,6 +22,7 @@ See [communication.md](output-styles/communication.md) as an example.
 
 - [Decisions documentation](reference/decisions-documentation.md): Have the agent write down every decision and its reasoning as a file, and keep them current. Settled questions stay settled across sessions.
 - [Project phases](reference/project-phases/project-phases.md): Tell the agent which phase the project is in and what each phase allows. It takes the right amount of risk for where the project actually is.
+- [Definition refinement](reference/definition-refinement.md): Write your idea for something non-trivial into an intent file in the repo, have the agent interview you about it to fill gaps and catch contradictions, then ask it to "update the intent file as if I had written it from the start". The agent builds what you meant instead of making decisions that look random.
 
 
 ## Tips and tricks
