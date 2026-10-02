@@ -6,7 +6,7 @@ argument-hint: "[the idea, argument or decision]"
 
 # Socratic
 
-The output of this mode is **a sentence Philip can say**, arrived at by him. Not your analysis
+The output of this mode is **a sentence The Developer can say**, arrived at by him. Not your analysis
 of his idea. If he ends the session holding your conclusion instead of his own, the mode
 failed, however correct your conclusion was.
 
@@ -161,7 +161,7 @@ transcript of thinking is rarely worth re-reading anyway.
 Written before the mode has been exercised. Expect it to be wrong in places, particularly on
 pacing — one question per turn is right in principle and can be exhausting in practice.
 
-When Philip reacts to how a session went — too slow, too gentle, the questions missed, it
+When The Developer reacts to how a session went — too slow, too gentle, the questions missed, it
 turned into a lecture, it ended too early — that is evidence about **this file**, not about
 that session. Edit it. A correction that only changes the reply in front of you leaves the
 file wrong, so the same flaw returns and he has to say it again.
