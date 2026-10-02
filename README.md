@@ -21,4 +21,4 @@ See [communication.md](output-styles/communication.md) as an example.
 ## Tips and tricks
 
 - [Reflective lessons](reference/scenario-reflective-lessons.md): Tell the agent to reflect on the lesson learned after a correction. Catches misunderstandings early.
-
+- [Decisions documentation](reference/decisions-documentation.md): Have the agent write down every decision and its reasoning as a file, and keep them current. Settled questions stay settled across sessions.
