@@ -20,5 +20,5 @@ See [communication.md](output-styles/communication.md) as an example.
 
 ## Tips and tricks
 
-- [Reflective lessons](reference/scenario-reflective-lessons.md): Tell the agent to reflect on the lesson learned after a correction.
+- [Reflective lessons](reference/scenario-reflective-lessons.md): Tell the agent to reflect on the lesson learned after a correction. Catches misunderstandings early.
 
